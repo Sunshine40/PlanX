@@ -40,6 +40,7 @@ namespace WpfApplicationTest
             s.Serialize(stream, sao);
             MessageBox.Show(stream.ToString());
             //123456789
+            //asd
         }
     }
 }
