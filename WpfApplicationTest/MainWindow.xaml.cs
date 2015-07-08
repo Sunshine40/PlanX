@@ -39,6 +39,7 @@ namespace WpfApplicationTest
             var stream = new StringWriter();
             s.Serialize(stream, sao);
             MessageBox.Show(stream.ToString());
+
         }
     }
 }
