@@ -41,6 +41,7 @@ namespace WpfApplicationTest
             MessageBox.Show(stream.ToString());
             //123456789
             //asd
+            //hotfix3
         }
     }
 }
